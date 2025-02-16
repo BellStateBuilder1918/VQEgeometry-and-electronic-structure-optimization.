@@ -1,0 +1,2 @@
+converged SCF energy = -169.977274691619
+Hartree-Fock Energy:  -169.97727469161902
