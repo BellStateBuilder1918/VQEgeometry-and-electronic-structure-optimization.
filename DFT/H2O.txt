@@ -1,0 +1,11 @@
+=== GROUND STATE ENERGY ===
+ 
+* Electronic ground state energy (Hartree): -85.017965028083
+  - computed part:      -5.601574746581
+  - ActiveSpaceTransformer extracted energy part: -79.416390281502
+~ Nuclear repulsion energy (Hartree): 9.089246404996
+> Total ground state energy (Hartree): -75.928718623087
+ 
+=== MEASURED OBSERVABLES ===
+ 
+  0:  # Particles: 4.000 S: 0.000 S^2: 0.000 M: 0.000
