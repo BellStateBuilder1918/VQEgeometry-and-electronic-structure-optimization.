@@ -1,0 +1,154 @@
+Molecule: CH2NH--H2O
+Atomic Coordinates: C -1.25287800 -0.56100700 0.02006900;H -2.29015400 -0.89421300 -0.02315300;H -0.47861700 -1.32268900 0.07987300;N -0.90210100 0.65073100 0.00389800;H -1.69982300 1.28064600 -0.05584700;H 1.05442400 0.43647600 -0.03364900;O 1.84392400 -0.12431000 -0.07451100;H 2.49475100 0.30519200 0.48116300
+
+=== GROUND STATE ENERGY ===
+ 
+* Electronic ground state energy (Hartree): -240.205622395012
+  - computed part:      -1.301018015112
+  - ActiveSpaceTransformer extracted energy part: -238.9046043799
+~ Nuclear repulsion energy (Hartree): 70.427106471564
+> Total ground state energy (Hartree): -169.778515923448
+ 
+=== MEASURED OBSERVABLES ===
+ 
+  0:  # Particles: 2.985 S: 1.445 S^2: 3.534 M: -1.411
+Molecule: CH2NH
+Atomic Coordinates: C 0.056287 0.581426 0.000000;H -0.844298 1.198425 0.000000;H 1.008536 1.107687 0.000000;N 0.056287 -0.678726 0.000000;H -0.895964 -1.043591 0.000000
+
+=== GROUND STATE ENERGY ===
+ 
+* Electronic ground state energy (Hartree): -126.619021220881
+  - computed part:      -0.880167462332
+  - ActiveSpaceTransformer extracted energy part: -125.738853758549
+~ Nuclear repulsion energy (Hartree): 33.096458778796
+> Total ground state energy (Hartree): -93.522562442085
+ 
+=== MEASURED OBSERVABLES ===
+ 
+  0:  # Particles: 2.742 S: 1.168 S^2: 2.532 M: -0.975
+Molecule: CH2O---NH3
+Atomic Coordinates: C 0.00000000 1.10058500 0.00000000;H 0.58057500 1.15742200 0.93373000;H 0.58057500 1.15742200 -0.93373000;N 0.86970200 -1.57900100 0.00000000;H 1.21429200 -2.07357000 -0.81381200;H 1.21429200 -2.07357000 0.81381200;O -1.19226400 0.99458000 0.00000000;H -0.13953600 -1.67484600 0.00000000
+
+=== GROUND STATE ENERGY ===
+ 
+* Electronic ground state energy (Hartree): -240.655603342257
+  - computed part:      -2.787061026529
+  - ActiveSpaceTransformer extracted energy part: -237.868542315728
+~ Nuclear repulsion energy (Hartree): 70.363127816847
+> Total ground state energy (Hartree): -170.292475525411
+ 
+=== MEASURED OBSERVABLES ===
+ 
+  0:  # Particles: 3.034 S: 1.415 S^2: 3.418 M: 1.380
+Molecule: CH2O
+Atomic Coordinates: C 0.00000000 -0.52447100 0.00000000;H -0.93797900 -1.10444600 0.00000000;H 0.93797800 -1.10444800 0.00000000;O 0.00000000 0.66946500 0.00000000
+
+=== GROUND STATE ENERGY ===
+ 
+* Electronic ground state energy (Hartree): -146.207407912401
+  - computed part:      -3.644647300267
+  - ActiveSpaceTransformer extracted energy part: -142.562760612133
+~ Nuclear repulsion energy (Hartree): 31.534274572626
+> Total ground state energy (Hartree): -114.673133339775
+ 
+=== MEASURED OBSERVABLES ===
+ 
+  0:  # Particles: 3.912 S: 1.961 S^2: 5.807 M: -1.952
+Molecule: Water
+Atomic Coordinates: H -0.02110 -0.00200 0.00000;O 0.83450 0.45190 0.00000;H 1.47690 -0.27300 0.00000
+
+=== GROUND STATE ENERGY ===
+ 
+* Electronic ground state energy (Hartree): -85.239050350403
+  - computed part:      -2.52743359713
+  - ActiveSpaceTransformer extracted energy part: -82.711616753273
+~ Nuclear repulsion energy (Hartree): 9.089246404996
+> Total ground state energy (Hartree): -76.149803945407
+ 
+=== MEASURED OBSERVABLES ===
+ 
+  0:  # Particles: 2.040 S: 0.994 S^2: 1.982 M: 0.982
+Molecule: NH3
+Atomic Coordinates: N 0.00000000 0.00000000 0.11344200;H 0.00000000 0.93915700 -0.26469800;H -0.81333400 -0.46957900 -0.26469800;H 0.81333400 -0.46957900 -0.26469800
+
+=== GROUND STATE ENERGY ===
+ 
+* Electronic ground state energy (Hartree): -68.855937983733
+  - computed part:      -3.324016393705
+  - ActiveSpaceTransformer extracted energy part: -65.531921590028
+~ Nuclear repulsion energy (Hartree): 11.95227116536
+> Total ground state energy (Hartree): -56.903666818374
+ 
+=== MEASURED OBSERVABLES ===
+ 
+  0:  # Particles: 3.822 S: 1.879 S^2: 5.410 M: 1.851
+Molecule: TS1
+Atomic Coordinates: C 0.33637300 0.67471600 0.02082100;H 0.29127600 1.23488300 0.95406000;H 0.16603700 1.27530300 -0.86564000;N 1.07737800 -0.44447500 -0.12130200;H 1.40511100 -0.77001800 0.78306100;H -0.21668600 -0.86183800 -0.24843300;O -1.20368200 -0.18360000 -0.08593900;H -1.57616600 -0.34649600 0.78864700
+
+=== GROUND STATE ENERGY ===
+ 
+* Electronic ground state energy (Hartree): -250.772672520289
+  - computed part:      -2.530412459197
+  - ActiveSpaceTransformer extracted energy part: -248.242260061092
+~ Nuclear repulsion energy (Hartree): 81.205668922435
+> Total ground state energy (Hartree): -169.567003597854
+ 
+=== MEASURED OBSERVABLES ===
+ 
+  0:  # Particles: 3.113 S: 1.343 S^2: 3.148 M: -1.247
+Molecule: TS2
+Atomic Coordinates: C -0.03598900 0.54626600 0.04282600;H -0.14847100 1.12461600 0.96255600;H -0.01039800 1.24136800 -0.79573100;N 1.19209500 -0.24374900 0.11077200;H 0.95820500 -1.20847200 -0.08967400;H 1.85018300 0.04433400 -0.60086700;O -1.16909100 -0.26590200 -0.15009100;H -1.42553000 -0.64598700 0.69208700
+
+=== GROUND STATE ENERGY ===
+ 
+* Electronic ground state energy (Hartree): -252.573964910241
+  - computed part:      -2.789055277239
+  - ActiveSpaceTransformer extracted energy part: -249.784909633002
+~ Nuclear repulsion energy (Hartree): 82.510379776042
+> Total ground state energy (Hartree): -170.063585134199
+ 
+=== MEASURED OBSERVABLES ===
+ 
+  0:  # Particles: 3.005 S: 1.462 S^2: 3.599 M: 1.445
+Molecule: TS3
+Atomic Coordinates: C 0.00000000 0.66943500 0.00000000;H 0.27911700 1.24168300 0.89795900;H 0.27911700 1.24168300 -0.89795900;N 0.89042000 -0.62874600 0.00000000;H 1.44033500 -0.79699100 -0.83597100;H 1.44033500 -0.79699100 0.83597100;O -1.18311200 0.06227600 0.00000000;H -0.20694900 -1.00297100 0.00000000
+
+=== GROUND STATE ENERGY ===
+ 
+* Electronic ground state energy (Hartree): -253.608187126207
+  - computed part:      -2.46733603763
+  - ActiveSpaceTransformer extracted energy part: -251.140851088577
+~ Nuclear repulsion energy (Hartree): 83.568988836362
+> Total ground state energy (Hartree): -170.039198289845
+ 
+=== MEASURED OBSERVABLES ===
+ 
+  0:  # Particles: 3.053 S: 1.464 S^2: 3.607 M: 1.443
+Molecule: NH2CH2OH-1
+Atomic Coordinates: C -0.03408900 0.53637700 0.04810600;H -0.07386700 1.07583700 0.99620800;H -0.07886200 1.25906300 -0.76295800;N 1.22008500 -0.15859300 -0.01980500;H 1.35295500 -0.78152900 0.76613300;H 1.28647300 -0.70238700 -0.87072100;O -1.19277200 -0.26399400 -0.11507500;H -1.28058700 -0.84714400 0.64193400
+
+=== GROUND STATE ENERGY ===
+ 
+* Electronic ground state energy (Hartree): -252.387856170282
+  - computed part:      -1.937068998559
+  - ActiveSpaceTransformer extracted energy part: -250.450787171723
+~ Nuclear repulsion energy (Hartree): 82.495906513421
+> Total ground state energy (Hartree): -169.891949656861
+ 
+=== MEASURED OBSERVABLES ===
+ 
+  0:  # Particles: 2.351 S: 1.109 S^2: 2.338 M: 1.065
+Molecule: NH2CH2OH-2
+Atomic Coordinates: C 0.04291000 0.53866700 0.01615000;H 0.03012400 1.19291300 -0.85997400;H 0.08716800 1.16186200 0.91177900;N -1.12467700 -0.31425600 -0.06016000;H -1.34225400 -0.72495800 0.83867400;H -1.93757000 0.18982900 -0.38714400;O 1.20850400 -0.24093200 0.05448200;H 1.10978500 -0.92440300 -0.61497200
+
+=== GROUND STATE ENERGY ===
+ 
+* Electronic ground state energy (Hartree): -253.006733769343
+  - computed part:      -2.48442562764
+  - ActiveSpaceTransformer extracted energy part: -250.522308141703
+~ Nuclear repulsion energy (Hartree): 82.789458051104
+> Total ground state energy (Hartree): -170.217275718239
+ 
+=== MEASURED OBSERVABLES ===
+ 
+  0:  # Particles: 3.000 S: 1.482 S^2: 3.679 M: 1.475
